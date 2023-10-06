@@ -124,7 +124,7 @@ def create_html_report(snapshot_info, elk_version, elk_cluster_name, mount_point
             </style>
         </head>
         <body>
-            <h1>Qpay Elasticsearch Snapshot Report</h1>
+            <h1>Elasticsearch Snapshot Report</h1>
             <p>Generated at: {current_datetime}</p>
             <p>Hostname: {hostname}</p>
             <p>IP Address: {ip_address}</p>
